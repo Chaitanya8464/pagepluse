@@ -1,0 +1,21 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules
+
+# Environment
+.env
+
+# Vite
+frontend/dist
+
+# Python cache
+.pytest_cache
+
+.coverage
+
+# VS Code
+.vscode
